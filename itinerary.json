@@ -1,0 +1,45 @@
+{
+    "tripName": "International Excursion",
+    "traveler": {
+        "name": "Benjamin D Anderson",
+        "contact": {
+            "email": "benanderson123@gmail.com",
+            "phone": 3149234059
+        }
+    },
+    "destinations": [
+        {
+            "location": "Paris",
+            "arrivalDate": "2025-05-23",
+            "departureDate": "2025-05-24",
+            "activities": [
+                {
+                    "title": "Louvre",
+                    "time": "10:00 AM"
+                },
+                {
+                    "title": "Eiffel Tower",
+                    "time": "1:00 PM"
+                }
+            ]
+
+        },
+        {
+            "location": "Munich",
+            "arrivalDate": "2025-05-24",
+            "departureDate": "2025-05-25",
+            "activities": [
+                {
+                    "title": "Munich Residence",
+                    "time": "12:00 PM"
+                },
+                {
+                    "title": "Deutsches Museum",
+                    "time": "2:00 PM"
+                }
+            ]
+
+        }
+    ]
+}
+
