@@ -1,0 +1,38 @@
+{
+    "tripName": "Midlife-Crisis",
+    "traveler": {
+        "name": "Kit Keller",
+        "contact": {
+            "email": "thisisit@email.com",
+            "phone": "(314) 555-555"
+        }
+    },
+    "destinations": [
+        {
+            "location": "Grand Canyon",
+            "cost": 1200,
+            "transportationModes": ["plane", "rental car", "tour bus"],
+            "activity": [{
+                "title": "sky diving",
+                "time": "06:00"
+            },
+            {
+                "title": "Escape without getting arrested",
+                "time": "Directly after landing"
+            }]
+        },
+        {
+            "location": "Iceland",
+            "cost": 1600,
+            "transportationModes": ["plane", "ferry", "rental car"],
+            "activity": [{
+                "title": "hiking",
+                "time": "06:00"
+            },
+            {
+                "title": "hot springs",
+                "time": "11:00"
+            }]
+        }
+    ]
+}
